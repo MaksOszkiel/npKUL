@@ -10,7 +10,7 @@
 - I szkalowanie Ożgi!
 
 ### Jak nazwyać zmienne?
-```csharp
+```cs
 //Zmienna GameObjectu
 GameObject nazwa
 //Zmienna Liczb bez przecinkowych

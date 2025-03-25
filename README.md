@@ -1,15 +1,15 @@
-#Narzedzia Programistyczne!#
+#Narzedzia Programistyczne!
 
 **Witam w README projektu, z narzedzi programistycznych**
 
 [Link do projektu](https://github.com/MaksOszkiel/npKUL)
 
-##Zawartość projektu to:##
+##Zawartość projektu to:
 - Readme, i jego opis
 - Wylewanie łez
 - I szkalowanie Ożgi!
 
-###Jak nazwyać zmienne?###
+###Jak nazwyać zmienne?
 ```csharp
 //Zmienna GameObjectu
 GameObject nazwa
